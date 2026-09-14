@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.intesgo.twa",
+    "sha256_cert_fingerprints": ["05:CC:4E:A6:AB:E8:17:D7:AD:34:A1:C3:FC:0D:B6:86:84:15:BD:40:D9:56:FA:AD:D3:CC:27:37:5B:A4:26:48"]
+  }
+}]
